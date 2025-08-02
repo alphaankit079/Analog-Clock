@@ -3,6 +3,9 @@
 This is a simple yet visually appealing **Analog Clock** built with HTML, CSS, and JavaScript. It features a rotating hour, minute, and second hand over a clock face background image, updating every second based on the user's local system time.
 
 ---
+## 🖼 Preview
+
+![Analog Clock Screenshot](preview.png)
 
 ## 🔧 Features
 
